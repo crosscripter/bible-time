@@ -1,0 +1,24 @@
+body {
+  font-family: arial, sans-serif; 
+  font-size: 120%;
+  line-height: 1.7;
+  word-break: break-word;
+  text-align: justify;
+  text-rendering: optimizeLegibility;
+  width: 80% !important;
+  margin: 0 auto;
+  color: #eee;
+  background: #111;
+}
+
+h1,h4 { 
+  text-align: center; 
+  margin: 0;
+}
+
+h4 {
+  opacity: 0.5;
+  font-style: italic;
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+}
